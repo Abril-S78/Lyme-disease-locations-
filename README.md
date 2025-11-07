@@ -12,4 +12,5 @@ Still currently
 ## Acknowledgments
 - https://www.w3schools.com/python/python_syntax.asp
 - https://www.scraperapi.com/web-scraping/beautiful-soup/
+- https://www.zenrows.com/blog/web-scraping-headers#common-http-headers
 
