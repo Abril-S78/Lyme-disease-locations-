@@ -6,6 +6,7 @@ A Python-based tool that uses the News API and public news to identify and map U
 - Python
 - News Api
 - Beautiful Soup
+- Streamlit
 
 ## Acknowledgments
 - https://www.w3schools.com/python/python_syntax.asp
