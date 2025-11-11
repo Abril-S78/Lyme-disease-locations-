@@ -1,7 +1,6 @@
 from newspaper import Article
 from bs4 import BeautifulSoup
 import requests
-import streamlit as st
 
 
 no_duplicates = set()
@@ -53,9 +52,7 @@ for url in no_duplicates:
 		print(f"Download failed: {e}")
 
 
-
-st.write(location_frequency)
-#print(location_frequency)
+print(location_frequency)
 
 
 
