@@ -1,5 +1,5 @@
 # Lyme-disease-locations- 
-A Python-based tool that uses the News API and public news to identify and map U.S. states with reported Lyme disease activity. 
+A Python-based tool that uses the News API and public news to identify and map U.S. states with reported Lyme disease activity. This web app is deployed through Streamlit  
 
 
 ## Built with 
